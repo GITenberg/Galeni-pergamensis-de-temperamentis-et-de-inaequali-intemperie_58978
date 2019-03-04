@@ -1,0 +1,33 @@
+_repo: Galeni-pergamensis-de-temperamentis-et-de-inaequali-intemperie_58978
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Linacre, Thomas
+    gutenberg_agent_id: '50248'
+    url: http://www.gutenberg.org/2009/agents/50248
+creator:
+  author:
+    agent_name: Galen
+    aliases:
+    - Galen,‏ of Pergamon
+    - Galen, Claudius‏
+    - Galenus, Claudius‏
+    gutenberg_agent_id: '42168'
+    url: http://www.gutenberg.org/2009/agents/42168
+  editor:
+    agent_name: Payne, Joseph Frank
+    gutenberg_agent_id: '50247'
+    url: http://www.gutenberg.org/2009/agents/50247
+description: ''
+gutenberg_issued: '2019-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58978'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Galeni pergamensis de temperamentis, et de inaequali intemperie
+url: http://www.gutenberg.org/ebooks/58978
