@@ -1,10 +1,13 @@
 _repo: Galeni-pergamensis-de-temperamentis-et-de-inaequali-intemperie_58978
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Linacre, Thomas
     gutenberg_agent_id: '50248'
     url: http://www.gutenberg.org/2009/agents/50248
+covers:
+- cover_type: archival
+  image_path: 58978-h/images/cover.jpg
 creator:
   author:
     agent_name: Galen
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '50247'
     url: http://www.gutenberg.org/2009/agents/50247
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58978#Galeni-pergamensis-de-temperamentis-et-de-inaequali-intemperie
 gutenberg_issued: '2019-02-27'
 gutenberg_type: Text
 identifiers:
